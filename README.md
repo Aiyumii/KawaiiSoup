@@ -2,7 +2,7 @@
 
 [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.5%2B-green.svg?style=flat-square)](https://github.com/Aiyumii/KawaiiSoup/)
-[![Discord](https://discordapp.com/api/guilds/117523346618318850/widget.png)](https://discord.gg/cpMkxRP) 
+[![Discord](https://discordapp.com/api/guilds/421170296004018177/widget.png)](https://discord.gg/cpMkxRP) 
 
 LoliBot, A Discord Bot made by an anime fan. Built with love (and discord.py) by MoonAlicesu ☪#1100
 
